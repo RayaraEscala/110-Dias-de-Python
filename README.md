@@ -94,12 +94,11 @@ Nos dias **7, 14, 30 e 60**, refaça um exercício antigo **sem consultar nada**
 
 | Mundo | Tema | Exercícios | Concluídos |
 |-------|------|-----------|------------|
-| 1 | Fundamentos: entrada/saída, tipos, operadores, módulos, textos, condições | #001 a #035 | 0/35 |
+| 1 | Fundamentos: entrada/saída, tipos, operadores, módulos, textos, condições | #001 a #035 | 15/35 |
 | 2 | Condições aninhadas e laços (`for`, `while`) | #036 a #071 | 0/36 |
 | 3 | Tuplas, listas, dicionários, funções, módulos e pacotes | #072 a #110 | 0/39 |
-| **Total** | | | **0/110** |
+| **Total** | | | **15/110** |
 
-> Atualize o selo de progresso e esta tabela conforme avançar.
 
 ---
 
